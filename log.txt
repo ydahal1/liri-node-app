@@ -1,0 +1,7 @@
+
+2018-7-23 22:29:40 :  node liri.js spotify-this-song hello
+2018-7-23 22:29:49 :  node liri.js spotify-this-song undefined
+2018-7-23 22:29:57 :  node liri.js undefined undefined
+2018-7-23 22:30:09 :  node liri.js movie-this undefined
+2018-7-23 22:30:15 :  node liri.js movie-this holiday
+2018-7-23 22:30:34 :  node liri.js my-tweets undefined
